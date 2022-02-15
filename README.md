@@ -1,0 +1,2 @@
+# Wordle
+This program implements a simple version, a text based UI of the popular game wordle by making use of the MVC architecture. MVC architecture is the model-view- controller architecture when we have something to model (in this case the wordle game) and user interface that displays and interacts with that model (the view). The controller is the code that manipulates the model in response to actions from the view. This file is the view part of MVC and this displays the game actions and progress to the user in text form. 
